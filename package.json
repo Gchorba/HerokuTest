@@ -1,0 +1,26 @@
+{
+  "name": "Heroku",
+  "version": "0.0.0",
+  "description": "heroku test",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DualPandas/node-example.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "gene chorba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DualPandas/node-example/issues"
+  },
+  "homepage": "https://github.com/DualPandas/node-example",
+  "dependencies": {
+    "express": "^4.4.1",
+    "logfmt": "^1.1.2"
+  }
+}
